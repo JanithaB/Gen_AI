@@ -20,5 +20,5 @@ This repository contains Colab notebooks for generative AI projects focusing on 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/generative-ai-colabs.git
-   cd generative-ai-colabs
+   git clone https://github.com/JanithaB/Gen_AI.git
+   cd Gen_AI
