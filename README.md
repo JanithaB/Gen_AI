@@ -24,7 +24,7 @@ This repository contains Colab notebooks for generative AI projects focusing on 
    cd Gen_AI
 
 2. **Open and Run Notebooks:**
-   - Open `text_to_image.ipynb` or `text_to_gif.ipynb` in Google Colab.
+   - Open `Gen_AI_txt_to_img.ipynb` or `Gen_AI_gif_gen.ipynb` in Google Colab.
    - Follow the instructions in each notebook to execute and generate outputs.
 
 3. **Customization and Experimentation:**
